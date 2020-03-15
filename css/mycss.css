@@ -1,0 +1,16 @@
+body {
+    background-image: url(../images/newyork.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+}
+.something {
+    background-color: #FF0003;
+    width: 62px;
+    height: 52px;
+    border-radius: 20px;
+    min-width: 0px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 19pt;
+    color: #FFFFFF;
+    line-height: 41px;
+}
